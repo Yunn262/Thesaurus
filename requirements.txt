@@ -1,5 +1,6 @@
-streamlit>=1.40.0
-ccxt
-pandas
-numpy
-streamlit_autorefresh
+streamlit==1.40.0
+streamlit-autorefresh==1.0.1
+ccxt==4.3.81
+pandas==2.2.3
+numpy==1.26.4
+
